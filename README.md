@@ -2,6 +2,22 @@
 Easy and simple to understand API wrapper around Namesilo API.
 API documentation: https://www.namesilo.com/api-reference#domains/register-domain
 
+## Installation
+
+Composer:
+```composer require ponasromas/namesilo @dev```
+
+Manual:
+```php
+<?php
+
+require_once('namesilo/namesilo.php');
+
+use Ponasromas\Namesilo;
+
+$ns = new Namesilo();
+```
+
 ## Usage
 Class has traits according to Namesilo API operations:
 
@@ -41,7 +57,7 @@ Run class:
 
 require_once('namesilo/namesilo.php');
 
-use Namesilo\Namesilo;
+use Ponasromas\Namesilo;
 
 $ns = new Namesilo();
 ```
