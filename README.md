@@ -6,7 +6,7 @@ API documentation: https://www.namesilo.com/api-reference#domains/register-domai
 ```php
 <?php
 
-require_once('namesilo/namesilo.php');
+require_once('namesilo.php');
 
 use Ponasromas\Namesilo;
 
