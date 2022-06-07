@@ -112,9 +112,9 @@ Take a note about Namesilo batch API. If you need batch API, just pass true when
 ```php
 <?php
 
-require_once('namesilo/namesilo.php');
+require_once('namesilo.php');
 
-use Namesilo\Namesilo;
+use Ponasromas\Namesilo;
 
 $ns = new Namesilo(true);
 ```
