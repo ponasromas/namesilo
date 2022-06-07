@@ -29,7 +29,7 @@ Class has traits according to Namesilo API operations:
 - \Privacy
 - \Transfer
 
-Please read documentation on each operation you will perform. Each trait contains short comments about parameters.
+Please read Namesilo documentation on each operation you will perform. Each trait contains short comments about parameters.
 
 ### Examples
 
