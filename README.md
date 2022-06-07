@@ -3,11 +3,6 @@ Easy and simple to understand API wrapper around Namesilo API.
 API documentation: https://www.namesilo.com/api-reference#domains/register-domain
 
 ## Installation
-
-Composer:
-```composer require ponasromas/namesilo @dev```
-
-Manual:
 ```php
 <?php
 
