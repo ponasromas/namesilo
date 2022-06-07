@@ -1,4 +1,4 @@
-# Namesilo API PHP wrapper
+# Namesilo API wrapper
 Easy and simple to understand API wrapper around Namesilo API.
 API documentation: https://www.namesilo.com/api-reference#domains/register-domain
 
